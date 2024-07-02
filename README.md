@@ -2,6 +2,8 @@
 
 This project implements a Task Management System using Red-Black Trees for efficient task and assignee management. It provides a comprehensive set of features to handle tasks assigned to project team members.
 
+![Red-black-Tree-banner-ezgif com-webp-to-jpg-converter](https://github.com/Aalyanraza/Red_Black_Tree/assets/114768774/f28f89b1-d2c3-4f22-bfe5-230f6cc1fc2b)
+
 ## Features
 
 - **Add Assignee**: Allows adding new assignees with details such as First Name, Last Name, Address, and Date of Birth. Assignee IDs are automatically generated.
