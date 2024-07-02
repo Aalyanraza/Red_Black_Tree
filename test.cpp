@@ -516,30 +516,6 @@ TEST(display_tree, UpdateTaskPriorities) {
     ASSERT_EQ(initialTreeOutput.str(), expectedInitialTreeOutput);
     ASSERT_EQ(updatedTreeOutput.str(), expectedUpdatedTreeOutput);
 }
-//TEST(highestpriority, samepriority) {
-//    taskManagementSystem taskSystem;
-//
-//    taskSystem.addAssignee("Aaimlik", "Abbasi", "I6", "2/11/2003");  //This should get A001
-//    taskSystem.addAssignee("Amna", "Hashim", "Dha phase 5", "11/2/2002"); // A002 and so on.
-//    taskSystem.addAssignee("Huma", "Ather", "Askari 4", "1/1/2003");
-//
-//    taskSystem.addTask(101, "Implement Feature A", 1, "A003");
-//    taskSystem.addTask(102, "Fix Bug in Module B", 2, "A002");
-//    taskSystem.addTask(103, "Write Unit Tests", 1, "A001");
-//
-//    // Capture the actual output
-//    std::stringstream actualOutput;
-//    taskSystem.findHighestPriorityTask(actualOutput);
-//
-//    // Define the expected output
-//    //in case of same priority tasks, arrange them wrt task id, in ascending order.
-//    std::string expectedOutput =
-//        "Highest Priority Task: Task ID: 101, Description: Implement Feature A, Priority: 1, Assignee: Huma (A003)\n"
-//        "Highest Priority Task: Task ID: 103, Description: Write Unit Tests, Priority: 1, Assignee: Aaimlik (A001)\n";
-//
-//    ASSERT_EQ(actualOutput.str(), expectedOutput);
-//}
-
 
 TEST(display_tree, samepriority) {
     taskManagementSystem taskSystem;
