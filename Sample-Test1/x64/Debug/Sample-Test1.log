@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\Work\University\Semester 3\Data Structure\Assignments\4\Red_Black_Tree.h(580,44): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+D:\Work\University\Semester 3\Data Structure\Assignments\4\Red_Black_Tree.h(800,44): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+  Sample-Test1.vcxproj -> D:\Work\University\Semester 3\Data Structure\Assignments\4\x64\Debug\Sample-Test1.exe

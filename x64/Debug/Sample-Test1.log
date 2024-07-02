@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Aalyan Kazmi\OneDrive\Desktop\Sample-Test1\header.h(580,44): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Aalyan Kazmi\OneDrive\Desktop\Sample-Test1\header.h(800,44): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Sample-Test1.vcxproj -> C:\Users\Aalyan Kazmi\OneDrive\Desktop\Sample-Test1\x64\Debug\Sample-Test1.exe
